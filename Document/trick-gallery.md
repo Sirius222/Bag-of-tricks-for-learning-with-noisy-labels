@@ -61,14 +61,6 @@ Vallina is an ordinary model, and EMA is a student model obtained by exponential
 
 **CIFAR-10**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -314,14 +306,7 @@ Vallina is an ordinary model, and EMA is a student model obtained by exponential
 
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-</style>
+
 <table class="tg">
 <thead>
   <tr>
@@ -405,7 +390,7 @@ Vallina is an ordinary model, and EMA is a student model obtained by exponential
   </tr>
   <!-- mixup -->
   <tr>
-    <td style="text-align:center;vertical-align:middle" rowspan="2">mixup</td>
+    <td style="text-align:center;vertical-align:middle" rowspan="2">Mixup</td>
     <td  align="center" class="tg-baqh">Vanilla</td>
     <td  align="center" class="tg-baqh">66.33±0.26</td>
     <td  align="center" class="tg-baqh">58.74±0.49</td>
@@ -433,7 +418,7 @@ Vallina is an ordinary model, and EMA is a student model obtained by exponential
   </tr>
    <!-- labelsmoothing -->
   <tr>
-    <td style="text-align:center;vertical-align:middle" rowspan="2">label smoothing</td>
+    <td style="text-align:center;vertical-align:middle" rowspan="2">Label Smoothing</td>
     <td  align="center" class="tg-baqh">Vanilla</td>
     <td  align="center" class="tg-baqh">65.81±0.54</td>
     <td  align="center" class="tg-baqh">53.61±0.32</td>
@@ -517,7 +502,7 @@ Vallina is an ordinary model, and EMA is a student model obtained by exponential
   </tr>
   <!-- Class-balance -->
   <tr>
-    <td style="text-align:center;vertical-align:middle" rowspan="2">class balance</td>
+    <td style="text-align:center;vertical-align:middle" rowspan="2">Class Balance</td>
     <td  align="center" class="tg-baqh">Vanilla</td>
     <td  align="center" class="tg-baqh">64.15±0.16</td>
     <td  align="center" class="tg-baqh">52.74±0.59</td>
