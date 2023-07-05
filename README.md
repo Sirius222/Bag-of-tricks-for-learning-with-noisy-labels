@@ -7,7 +7,7 @@ In this repo:
 - We provide code for constructing noisy data, including symmetric, asymmetric, instance, and real noise.
 
 - All experiments are conducted on the CIFAR dataset. The CIFAR dataset has 50,000 images, and the image size is 32x32, so it can be run on a single GPU.
-- All experiments were repeated three times, and then the mean$\pm$ std. were calculated.
+
 
 The following is a brief introduction to the tricks used in this project:
 
