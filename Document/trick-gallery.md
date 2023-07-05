@@ -335,7 +335,7 @@ Vallina is an ordinary model, and EMA is a student model obtained by exponential
   </tr>
   <!-- baseline -->
   <tr>
-    <td style="text-align:center;vertical-align:middle" rowspan="4">baseline</td>
+    <td style="text-align:center;vertical-align:middle" rowspan="2">baseline</td>
     <td  align="center" class="tg-baqh">Vanilla</td>
     <td  align="center" class="tg-baqh">63.94±0.39</td>
     <td  align="center" class="tg-baqh">52.39±0.63</td>
@@ -363,7 +363,8 @@ Vallina is an ordinary model, and EMA is a student model obtained by exponential
   </tr>
   <!-- PreResNet -->
   <tr>
-    <td  align="center" class="tg-baqh">PreResNet</td>
+    <td style="text-align:center;vertical-align:middle" rowspan="2">PreResNet</td>
+    <td  align="center" class="tg-baqh">Vanilla</td>
     <td  align="center" class="tg-baqh">62.46±0.36</td>
     <td  align="center" class="tg-baqh">52.54±0.18</td>
     <td  align="center" class="tg-baqh">43.38±0.37</td>
