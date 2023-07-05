@@ -5,7 +5,7 @@
 In this section, we will show you how to run these tricks in detail.
 
 ```
-cd trick-gallery
+cd bag-of-tricks
 ```
 
 **DS**={`cifar-10`, `cifar-100`}; **TYPE**={`symmetric`, `asymmetric`,` pairflip`, `aggre`, `worst`, `noisy100`}; **RATE** :Noise Rate 
