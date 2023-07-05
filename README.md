@@ -21,18 +21,10 @@ The following is a brief introduction to the tricks used in this project:
 
 ## Experiment
 
-The project uses ResNet + cross-entropy as baseline, and all tricks are evaluated on top of this baseline. This section provides a brief introduction, and detailed descriptions and experimental results can be found in the gallery.md file in the document directory.
+The project uses ResNet + cross-entropy as baseline, and all tricks are evaluated on top of this baseline. This section provides a brief introduction, and detailed descriptions and experimental results can be found in the trick-gallery.md file in the Document directory.
 
 We conducted extensive experiments on the CIFAR dataset, which is a popular benchmark dataset for image classification. The results were the mean and standard deviation after three repetitions and the noise types and corresponding noise rates of the constructed dataset can be found in the table below. 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -88,7 +80,7 @@ particular pairs of classes</font>
 
 ## Usage
 
-If you want to run the code and reproduce the results, please refer to the gallery.md file in the document directory. It provides detailed instructions on how to use each trick.
+If you want to run the code and reproduce the results, please refer to the trick-gallery.md file in the Document directory. It provides detailed instructions on how to use each trick.
 
 ## Related link
 
