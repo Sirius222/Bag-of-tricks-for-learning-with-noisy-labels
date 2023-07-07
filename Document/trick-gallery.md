@@ -16,7 +16,7 @@ cd bag-of-tricks
   python main.py --dataset {DS} --noise_type {TYPE} --noise_rate {RATE}
   ```
 
-- ResResNet
+- PreResNet
 
   ```bash
   python main.py --dataset {DS} --noise_type {TYPE} --noise_rate {RATE} --net 'PreResNet18'
